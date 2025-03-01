@@ -1,3 +1,18 @@
-## Hi there 👋
-My name is Gautami, I have completed my graduation in B.E in Computer Engineering honours with Data Science. My curious behaviour can be suitable for the field of data science, and hence I chose the field of data science.
+## 👋 Hi, I'm Gautami Mhatre!  
+🎓 **B.E. in Computer Engineering (Honors) - Data Science**  
+🔍 **Curious by Nature | Data Enthusiast | Problem Solver**  
+
+Data fuels my curiosity, and curiosity drives my passion for uncovering insights! 🚀  
+I thrive in the world of **data analytics, machine learning, and storytelling with data.**  
+
+💡 I love working with **Python, SQL, and visualization tools** to turn raw data into meaningful solutions.  
+Whether it's **exploratory data analysis, predictive modeling, or gaining insights**, I'm always eager to dive deep and learn more.  
+
+### 📌 What you'll find here:  
+✔️ **Data Science & Analytics Projects**  
+✔️ **Machine Learning Models & Visualizations**    
+
+📫 **Reach me at:**
+📧 [Email](mailto:gautamimhatre07@gmail.com) 
+
 
