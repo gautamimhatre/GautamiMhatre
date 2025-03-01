@@ -13,6 +13,6 @@ Whether it's **exploratory data analysis, predictive modeling, or gaining insigh
 ✔️ **Machine Learning Models & Visualizations**    
 
 📫 **Reach me at:**
-📧 [Email](mailto:gautamimhatre07@gmail.com) 
+📧 [Email](gautamimhatre07@gmail.com) 
 
 
